@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderManagement.API", "OrderManagement.API\OrderManagement.API.csproj", "{DCB8C3AC-B711-46F0-A510-E15C0E81739D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AAF7ADBD-988E-45FA-9FCC-28ABEBB1A0FD}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{70FA2743-87C2-44A5-9087-9692DA0B9945}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\ismail.kildis\Desktop\OrderManagementApi.postman_collection.json = ..\..\Users\ismail.kildis\Desktop\OrderManagementApi.postman_collection.json
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB8C3AC-B711-46F0-A510-E15C0E81739D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB8C3AC-B711-46F0-A510-E15C0E81739D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB8C3AC-B711-46F0-A510-E15C0E81739D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB8C3AC-B711-46F0-A510-E15C0E81739D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A521E0C-D580-4974-AE32-DBB3329E5AAB}
+	EndGlobalSection
+EndGlobal
