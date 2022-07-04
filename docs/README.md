@@ -4,6 +4,12 @@ OrderManagementAPI was developed to manage customer orders. Created Order Manage
 It is used to create, modify, delete and view. Developed with the EF Core generic repository model. MSSQL 2019 database and ElasticSearch are used. All of these can be run with container in Docker.
 
 
+<h2>To run Application</h2>
+
+Navigate to root of the project and run commands listed below
+<li>docker compose build</li>
+<li>docker compose up</li>
+
 <h2>HTTP Methods</h2>
 
 The application will be available on <a href="http://localhost:5001/swagger">localhost:5001</a><br>

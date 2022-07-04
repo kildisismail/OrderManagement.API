@@ -31,4 +31,5 @@ The application will be available on <a href="http://localhost:5001/swagger">loc
 <b>DELETE Product/{id}</b><br>
 
 
+<a href="https://github.com/kildisismail/OrderManagement.API/blob/master/docs/README.md"> Click for a detailed document.</a>
 <a href="https://github.com/kildisismail/OrderManagement.API/blob/master/docs/OrderManagementApi.postman_collection.json"> Click for Postman document.</a>
